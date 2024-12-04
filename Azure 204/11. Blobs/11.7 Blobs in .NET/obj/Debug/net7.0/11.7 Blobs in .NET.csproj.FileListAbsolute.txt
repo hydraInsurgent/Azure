@@ -1,0 +1,28 @@
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\11.7 Blobs in .NET.exe
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\11.7 Blobs in .NET.deps.json
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\11.7 Blobs in .NET.runtimeconfig.json
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\11.7 Blobs in .NET.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\11.7 Blobs in .NET.pdb
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\Azure.Core.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\Azure.Identity.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\Azure.Storage.Common.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\System.IO.Hashing.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\obj\Debug\net7.0\11.7 Blobs in .NET.csproj.AssemblyReference.cache
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\obj\Debug\net7.0\11.7 Blobs in .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\obj\Debug\net7.0\11.7 Blobs in .NET.AssemblyInfoInputs.cache
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\obj\Debug\net7.0\11.7 Blobs in .NET.AssemblyInfo.cs
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\obj\Debug\net7.0\11.7 Blobs in .NET.csproj.CoreCompileInputs.cache
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\obj\Debug\net7.0\11.7 Blobs in .NET.csproj.CopyComplete
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\obj\Debug\net7.0\11.7 Blobs in .NET.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\obj\Debug\net7.0\refint\11.7 Blobs in .NET.dll
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\obj\Debug\net7.0\11.7 Blobs in .NET.pdb
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\obj\Debug\net7.0\11.7 Blobs in .NET.genruntimeconfig.cache
+C:\Personal\Learning\Azure\11. Blobs\11.7 Blobs in .NET\obj\Debug\net7.0\ref\11.7 Blobs in .NET.dll

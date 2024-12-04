@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\local-dummy-webapp.props" />
+</Project>

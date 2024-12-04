@@ -1,0 +1,7 @@
+C:\Personal\Learning\Azure\6. Web APP\local-dummy-webapp\out\local-dummy-webapp.exe
+C:\Personal\Learning\Azure\6. Web APP\local-dummy-webapp\out\appsettings.Development.json
+C:\Personal\Learning\Azure\6. Web APP\local-dummy-webapp\out\appsettings.json
+C:\Personal\Learning\Azure\6. Web APP\local-dummy-webapp\out\local-dummy-webapp.dll
+C:\Personal\Learning\Azure\6. Web APP\local-dummy-webapp\out\local-dummy-webapp.deps.json
+C:\Personal\Learning\Azure\6. Web APP\local-dummy-webapp\out\local-dummy-webapp.runtimeconfig.json
+C:\Personal\Learning\Azure\6. Web APP\local-dummy-webapp\out\local-dummy-webapp.pdb

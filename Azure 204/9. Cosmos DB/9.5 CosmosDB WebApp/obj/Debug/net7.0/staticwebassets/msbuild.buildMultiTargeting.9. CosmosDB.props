@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\9. CosmosDB.props" />
+</Project>

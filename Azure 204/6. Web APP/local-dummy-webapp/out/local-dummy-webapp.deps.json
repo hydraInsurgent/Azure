@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "local-dummy-webapp/1.0.0": {
+        "runtime": {
+          "local-dummy-webapp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "local-dummy-webapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

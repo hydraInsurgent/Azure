@@ -1,0 +1,1 @@
+public record MyData(string id, string name, string description);
